@@ -17,6 +17,10 @@
   [Sobre](#sobre)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Deploy](#deploy)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Utilizacao](#utilizacao)&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Contato](#contato)
 </div>
 
+
+https://github.com/ABeatrizSC/apple-watch-page/assets/105675205/e3bfe724-dc19-4870-a986-51dae080d9ee
+
+
 <h2 name="sobre">📝Sobre</h2>
 <ul>
   <li>Projeto clone da página do Apple Watch;</li>
@@ -26,7 +30,7 @@
 </ul>
 
 <h2 name="deploy">🔗Deploy</h2>
-<p><strong> Acesse a visualização completa do Projeto Spotify </strong> <a href="https://abeatrizsc.github.io/apple-watch-page/" target="_blank"> aqui</a>.</p>
+<p><strong> Acesse a visualização completa do Projeto Apple Watch Page </strong> <a href="https://abeatrizsc.github.io/apple-watch-page/" target="_blank"> aqui</a>.</p>
 
 <h2 name="utilizacao">💻Utilização</h2></p>
 <p>Feito através do editor <a href="https://code.visualstudio.com/docs">Visual Studio Code.</a>
