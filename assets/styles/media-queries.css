@@ -1,0 +1,32 @@
+@media screen and (max-width: 1020px) {
+    nav {
+      & > ul {
+        display: none;
+      }
+    }
+    
+    #produto {
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: center;
+        gap: 3rem;
+
+        & > #opcoes-produto {
+            max-width: 80dvw;
+
+            & > #titulo-produto {
+                width: 100%;
+            }
+        }
+        
+        & > #visualizacao {
+            margin: 0;
+        }
+    }
+  }
+  
+  @media screen and (max-width: 475px) {
+    #imagem-visualizacao {
+      width: 25rem;
+    }
+  }
